@@ -88,7 +88,7 @@
     // Set the current locale to `en`.
     , locale: "en"
     // Set the translation key separator.
-    , defaultSeparator: "."
+    , defaultSeparator: "-"
     // Set the placeholder format. Accepts `{placeholder}}` and `%{placeholder}`.}
     , placeholder: /(?:\{\{|%\{)(.*?)(?:\}\}?)/gm
     // Set if engine should fallback to the default locale when a translation
